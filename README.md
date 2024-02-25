@@ -10,7 +10,7 @@
 
 - Created - 2024/02/25
 
-- Technologies Used - Html , tailwind , mui , react 
+- Technologies Used - Html , tailwind , mui , react , responsive
 
 - Hooks Used : useState 
 
